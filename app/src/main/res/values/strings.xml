@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Egg Timer</string>
+    <string name="egg_background">This is an egg clip art</string>
+    <string name="text_time">00:00</string>
+    <string name="text_set_timer">Timer set to: 0</string>
+    <string name="btn_control">Go</string>
+    <string name="btn_stop">Stop Alarm!</string>
+</resources>
